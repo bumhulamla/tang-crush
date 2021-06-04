@@ -6,11 +6,11 @@ const CONFIG = {
     desc: 'NTM_build',
     btnYes: 'có <3',
     btnNo: 'Không',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    question:'Trên thế giới hơn 8 tỉ người mà sao chú lại chọn toi <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Toi biết mà 🥰. Yêu babi nhiều nhiều 😘😘',
-    messDesc: 'nhớ babi nhiềuuu.',
-    btnAccept: 'Okiiiii lun <3',
+    messDesc: 'yêu babi nhiềuuu.',
+    btnAccept: ' <3',
     messLink: 'https://www.facebook.com/bumhulam/' 
 }
