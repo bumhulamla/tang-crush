@@ -12,7 +12,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Toi biết mà 🥰. Yêu babi nhiều nhiều 😘😘',
-    messDesc: 'nhớ babu nhiềuuu.',
+    messDesc: 'nhớ babi nhiềuuu.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/bumhulam/' 
 }
